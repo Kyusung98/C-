@@ -1,0 +1,6 @@
+/Users/kyu/문서/Rider/C#/ConsoleApp1/ConsoleApp2/bin/Debug/ConsoleApp2.exe
+/Users/kyu/문서/Rider/C#/ConsoleApp1/ConsoleApp2/bin/Debug/ConsoleApp2.pdb
+/Users/kyu/문서/Rider/C#/ConsoleApp1/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.AssemblyReference.cache
+/Users/kyu/문서/Rider/C#/ConsoleApp1/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/kyu/문서/Rider/C#/ConsoleApp1/ConsoleApp2/obj/Debug/ConsoleApp2.exe
+/Users/kyu/문서/Rider/C#/ConsoleApp1/ConsoleApp2/obj/Debug/ConsoleApp2.pdb
